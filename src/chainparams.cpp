@@ -142,7 +142,7 @@ public:
         vSeeds.emplace_back("seed.proteanx.com");
 
         nExtCoinType = 339;
-        cashaddrPrefix = "devault";
+        cashaddrPrefix = "";
         cashaddrSecretPrefix = "dvtpriv";
 
         // Rewards
